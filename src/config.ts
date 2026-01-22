@@ -1,10 +1,10 @@
 export const SITE = {
   website: "https://marciniak.cloud/", // replace this with your deployed domain
   author: "Michał Artur Marciniak",
-  // profile: "https://marciniak.cloud/",
+  profile: "https://marciniak.cloud/",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
   title: "Marciniak",
-  // ogImage: "astropaper-og.jpg",
+  ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
